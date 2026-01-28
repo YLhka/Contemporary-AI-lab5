@@ -1,0 +1,2942 @@
+[
+  {
+    "guid": "563",
+    "text": "RT @LostVillages: Babingley St Felix, near King's Lynn. Babingley also one of Norfolk's many #deserted villages. Photo: Geoff Clack",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\563.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.11951211839914322,
+      0.16494470834732056,
+      -0.0880594551563263
+    ]
+  },
+  {
+    "guid": "5060",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\5060.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.013785556890070438,
+      0.16825929284095764,
+      -0.41502904891967773
+    ]
+  },
+  {
+    "guid": "4488",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4488.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.03460097312927246,
+      -0.015085753053426743,
+      -0.13569751381874084
+    ]
+  },
+  {
+    "guid": "586",
+    "text": "@westys1981 @Ronbow55 @cwestwood1979 I'll never understand why this never made the paper #startled #unuseable",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\586.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.13648684322834015,
+      0.11325963586568832,
+      -0.4508214294910431
+    ]
+  },
+  {
+    "guid": "3661",
+    "text": "The nun relates a spiteful accident about husband and wife.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3661.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.13403578102588654,
+      0.071308434009552,
+      0.13052275776863098
+    ]
+  },
+  {
+    "guid": "1053",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1053.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.28864485025405884,
+      -0.403438001871109,
+      0.7197301387786865
+    ]
+  },
+  {
+    "guid": "2432",
+    "text": "8mm Blue Mexican Opal Gem Round Loose Bead 13\"##QF1116",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2432.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.14517077803611755,
+      -0.3767586946487427,
+      0.2990277409553528
+    ]
+  },
+  {
+    "guid": "1781",
+    "text": "RT @OfficialAbow: #IAMBLACK- #IMATTER to our #Etsy community! #Handmade #Black #Egyptian #Amber",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1781.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.04269767552614212,
+      -0.14738225936889648,
+      0.005924113094806671
+    ]
+  },
+  {
+    "guid": "4076",
+    "text": "Algebra Survival Guide: A Conversational Guide for the Thoroughly Befuddled http://t.co/ihs4hfGFuF http://t.co/X1sVMp5AU3",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4076.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.23083612322807312,
+      0.04706259071826935,
+      0.07191076129674911
+    ]
+  },
+  {
+    "guid": "768",
+    "text": "RT @RexTheSuperLab: Help find my friend..5 month old black lab pup lost today on Woodbury common,Devon. His mum's is worried sick.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\768.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.02831711620092392,
+      0.007951654493808746,
+      -0.2679072618484497
+    ]
+  },
+  {
+    "guid": "1982",
+    "text": "RT @roso1954: @DanielGennaoui : The most beautiful abandoned places in the world: #abandoned #lost",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1982.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.10338646918535233,
+      0.053957611322402954,
+      0.010411892086267471
+    ]
+  },
+  {
+    "guid": "531",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\531.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.4365895986557007,
+      0.5414637327194214,
+      -0.3115651309490204
+    ]
+  },
+  {
+    "guid": "2576",
+    "text": "Gigantic series Battle damaged SSJ Goku out of box?????????",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2576.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.05403506010770798,
+      -0.3180589973926544,
+      0.06009041517972946
+    ]
+  },
+  {
+    "guid": "2166",
+    "text": "Grey polka dot wooden box and tag, distressed effect. approx. size 18x12x10cm #vintage #gotshop #shabbychic",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2166.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.20251131057739258,
+      -0.5390120148658752,
+      0.2266218364238739
+    ]
+  },
+  {
+    "guid": "1712",
+    "text": "Why #socialmedias make people feel down? Here's what research said #Addicted #depression",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1712.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.3344095051288605,
+      -0.006884574890136719,
+      -0.5195981860160828
+    ]
+  },
+  {
+    "guid": "4181",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4181.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.0715717077255249,
+      0.2527029514312744,
+      -0.37000027298927307
+    ]
+  },
+  {
+    "guid": "39",
+    "text": "RT @MattBoutDatLife: Kanye brought out Fetty Wap. Don't question his judgement ever again",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\39.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.34924060106277466,
+      0.019625090062618256,
+      -0.46301043033599854
+    ]
+  },
+  {
+    "guid": "4295",
+    "text": "Genuine HP 933XL HP933XL Magenta Ink Cartridge in Damaged Retail Box http://t.co/8LUTc3vaRM http://t.co/BinkY0Z3Bx",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4295.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.13522422313690186,
+      -0.2706863582134247,
+      0.48689034581184387
+    ]
+  },
+  {
+    "guid": "1178",
+    "text": "#zealous #newyearsday 500+ #healthy chinese recipes cookbook.: Chinese Cookbook - The #",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1178.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.16648653149604797,
+      -0.4970252215862274,
+      0.23469853401184082
+    ]
+  },
+  {
+    "guid": "757",
+    "text": "Yep...has been for awhile now! Hang on, it's gonna be a wild ride!",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\757.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.3319762945175171,
+      0.6019327044487,
+      -0.4449251890182495
+    ]
+  },
+  {
+    "guid": "509",
+    "text": "I am powerful. Alcohol is powerless.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\509.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.09062612801790237,
+      0.13013973832130432,
+      -0.15328453481197357
+    ]
+  },
+  {
+    "guid": "1785",
+    "text": "RT @RileyDevilDog: \"@NBCNewYork: 8 dogs in sweaters found abandonded. This is what'll happen to them",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1785.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.20982608199119568,
+      0.18160781264305115,
+      -0.6043844223022461
+    ]
+  },
+  {
+    "guid": "4967",
+    "text": "Coach Signature Multi shoulder bag, medium, 12\", 3\", 8\", khaki and white http://t.co/AR08eHW8AO http://t.co/GEOhpzWemz",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4967.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.1583280712366104,
+      -0.5591733455657959,
+      0.5214880108833313
+    ]
+  },
+  {
+    "guid": "4893",
+    "text": "RT @kidswontknow: #TodaysKidsWillNeverKnow how intense this used to be http://t.co/UxpskCEeqj",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4893.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.05466483160853386,
+      0.13807499408721924,
+      -0.2664722502231598
+    ]
+  },
+  {
+    "guid": "4924",
+    "text": "ALLEN BRADLEY 1771-NT2/B HIGH RESOLUTION ISOLATED ANALOG MODULE http://t.co/Zkf0FAmZPG http://t.co/7z1E7d3iab",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4924.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.4988548159599304,
+      -0.28251707553863525,
+      0.8467646241188049
+    ]
+  },
+  {
+    "guid": "3537",
+    "text": "FRANK BARON TRIO Moontide / Rotten Row 78 POLYGON P1012",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3537.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.05594690516591072,
+      -0.19240158796310425,
+      0.040131911635398865
+    ]
+  },
+  {
+    "guid": "4047",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4047.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.25188973546028137,
+      0.35280779004096985,
+      -0.32065731287002563
+    ]
+  },
+  {
+    "guid": "140",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\140.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.11966019123792648,
+      -0.11400606483221054,
+      -0.16920524835586548
+    ]
+  },
+  {
+    "guid": "4217",
+    "text": "Quirky, funny, and dark satire set in a chaotic Hollywood. http://t.co/joaun1SdKP By @jed_hamilton http://t.co/Aa0nax7dew",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4217.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.03914075344800949,
+      -0.1432526409626007,
+      0.03929205238819122
+    ]
+  },
+  {
+    "guid": "4329",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4329.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.09376149624586105,
+      0.07799665629863739,
+      -0.22257569432258606
+    ]
+  },
+  {
+    "guid": "1706",
+    "text": "The Dragon watching ... - #Beach #Green #Isolated #Morning #Moss #Rock #Salt #Sea",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1706.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.05745069310069084,
+      0.09666972607374191,
+      -0.184438556432724
+    ]
+  },
+  {
+    "guid": "2741",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2741.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.21978579461574554,
+      -0.08042892813682556,
+      -0.4521894156932831
+    ]
+  },
+  {
+    "guid": "3820",
+    "text": "RT @Adz77: Wrote this on why Andrea Pirlo is finally looking up to Sebastian Giovinco #NYCvTOR",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3820.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.019829988479614258,
+      0.16961106657981873,
+      -0.35482707619667053
+    ]
+  },
+  {
+    "guid": "833",
+    "text": "Hammered myself again... #fitness #aching #NoPainNoGain #homegym #boom",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\833.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.009249608032405376,
+      -0.13900986313819885,
+      0.11505327373743057
+    ]
+  },
+  {
+    "guid": "5068",
+    "text": "#Brazzers #Exclusive Reeling from the mysterious disappearance of their dear... http://t.co/55d2BOKD2G #VIDEO http://t.co/3g6PW0mncZ",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\5068.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.04905815050005913,
+      0.0434078723192215,
+      -0.2076636254787445
+    ]
+  },
+  {
+    "guid": "3409",
+    "text": "The Nervous System, Part 1: Crash Course A&P #8 #rtb #programmatic",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3409.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.20659805834293365,
+      -0.03839636594057083,
+      0.2545430362224579
+    ]
+  },
+  {
+    "guid": "1947",
+    "text": "RT @kEsquire: The legendary slave who burned down Montreal, Marie Joseph Angelique, she was executed in 1734",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1947.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.17598089575767517,
+      0.11593426018953323,
+      -0.2770272195339203
+    ]
+  },
+  {
+    "guid": "3958",
+    "text": "RT @meechonmars: Even When You Admit To What You Did Wrong Parents Still Be Mad. @dopeisland",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3958.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.06362901628017426,
+      -0.011585548520088196,
+      -0.3457655608654022
+    ]
+  },
+  {
+    "guid": "3513",
+    "text": "RT @OnlyMyBiebah: When you get rejected by Justin Bieber",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3513.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.3138417601585388,
+      -0.02305321954190731,
+      -0.5363496541976929
+    ]
+  },
+  {
+    "guid": "3366",
+    "text": "RT @CareenAmy: Tragic Tale Of 1930s Orca Shows U.S. Has Long Mistreated Whales via ~bbguari #Blackfish https://t.co/6zz2c7wWiQ",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3366.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.18845169246196747,
+      0.36417654156684875,
+      -0.4907131791114807
+    ]
+  },
+  {
+    "guid": "3899",
+    "text": "Whipped a uturn and ran a stop sign to come look at this beauty. ????",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3899.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.22847405076026917,
+      0.27446940541267395,
+      -0.1776643991470337
+    ]
+  },
+  {
+    "guid": "2552",
+    "text": "RT @DailyMailUK: Benefits dad who claims he can't work is caught lifting 17-STONE mobility scooter up stairs",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2552.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.054009463638067245,
+      0.25628939270973206,
+      -0.33487674593925476
+    ]
+  },
+  {
+    "guid": "4218",
+    "text": "RT @NME: 20 chaotic, historic secret gigs that will always be remembered http://t.co/yt2SfbQ7Ar http://t.co/RNLPb8nPj1",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4218.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.08451055735349655,
+      0.18278786540031433,
+      -0.30115804076194763
+    ]
+  },
+  {
+    "guid": "2705",
+    "text": "RT @DrTurleyTalks: Learn how Christians are on course to become the majority in the west:",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2705.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      0.17872317135334015,
+      0.3378241956233978,
+      -0.6096622347831726
+    ]
+  },
+  {
+    "guid": "1928",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1928.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.1804676502943039,
+      0.1798117458820343,
+      -0.573698878288269
+    ]
+  },
+  {
+    "guid": "4952",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4952.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.14136141538619995,
+      -0.37024447321891785,
+      0.39612653851509094
+    ]
+  },
+  {
+    "guid": "5104",
+    "text": "RT @crimsonhouseboo: \"Hell hath no fury like a book lover scorned.\" :) Pearls Before Swine http://t.co/nGRM04x9jS http://t.co/80m4pVtXN6",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\5104.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.1500220149755478,
+      0.1449297070503235,
+      -0.1038302630186081
+    ]
+  },
+  {
+    "guid": "307",
+    "text": "Heated af. My second pair was supposed to be skipper blue, not glass blue",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\307.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.15588778257369995,
+      -0.2029198408126831,
+      0.2446676790714264
+    ]
+  },
+  {
+    "guid": "4716",
+    "text": "@amyhunterywca Brings Diversity to #STEMTQ2015 @STEMpactSTL Let's talk about it http://t.co/hTNnXR61Y9",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4716.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.16204513609409332,
+      -0.2594452500343323,
+      0.020058084279298782
+    ]
+  },
+  {
+    "guid": "2615",
+    "text": "RT @DerekBrunson: Doing dumb stuff has a price to pay???????",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2615.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.2240733951330185,
+      0.396666944026947,
+      -0.36680868268013
+    ]
+  },
+  {
+    "guid": "3581",
+    "text": "RT @guattari2600: shunned and pointedly ignored on account of trimming his claws yesterday",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3581.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.15065507590770721,
+      0.09574108570814133,
+      -0.3739159107208252
+    ]
+  },
+  {
+    "guid": "266",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\266.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.012895884923636913,
+      0.117544986307621,
+      -0.17878296971321106
+    ]
+  },
+  {
+    "guid": "2584",
+    "text": "Do you feel defeated by unhappiness? Take the quiz:",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2584.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.17525841295719147,
+      0.13350778818130493,
+      -0.5065281391143799
+    ]
+  },
+  {
+    "guid": "542",
+    "text": "RT @Tof_yin: Hell hath no fury like a Yoruba woman scorned.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\542.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.2696799337863922,
+      0.006292499601840973,
+      -0.4345840811729431
+    ]
+  },
+  {
+    "guid": "2742",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2742.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.18996424973011017,
+      -0.04271095618605614,
+      -0.4292861223220825
+    ]
+  },
+  {
+    "guid": "1390",
+    "text": "First bible I've owned and it's a textbook #faith #devoted #nofilter",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1390.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.04951929673552513,
+      -0.09402583539485931,
+      -0.09485524147748947
+    ]
+  },
+  {
+    "guid": "2661",
+    "text": "Why is Sudhir Kakar's Bhartrihari is weak, despondent?",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2661.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.012337206862866879,
+      0.14554479718208313,
+      -0.42494308948516846
+    ]
+  },
+  {
+    "guid": "4775",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4775.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.028560761362314224,
+      0.09322815388441086,
+      -0.31850406527519226
+    ]
+  },
+  {
+    "guid": "580",
+    "text": "RT @swetasahaay: Simply speechless to see this pic !!! #AAPkaCM",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\580.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.1524631828069687,
+      0.4701232612133026,
+      -0.3321145474910736
+    ]
+  },
+  {
+    "guid": "3319",
+    "text": "2014 Breezer Repack 27.5 Expert Full Suspension Mountain bike size Medium.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3319.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.1888890266418457,
+      -0.47891053557395935,
+      0.5062100887298584
+    ]
+  },
+  {
+    "guid": "4192",
+    "text": "FXStreetNews : $GBPUSD buoyant near 1.5630 http://t.co/iIQDMp34Qh (via Twitter http://t.co/JJgrGAbW0e) http://t.co/T1OUP1S3Ou",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4192.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.4424242377281189,
+      0.15281590819358826,
+      0.21025875210762024
+    ]
+  },
+  {
+    "guid": "452",
+    "text": "RT @robertasmithnyt: Also at Clyfford Still Musuem, astounding earlyish work whose data I neglected to record. #OffSiteTweeting",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\452.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      -0.0040394896641373634,
+      -0.09869538992643356,
+      -0.018991883844137192
+    ]
+  },
+  {
+    "guid": "1679",
+    "text": "Oh my! Another cake but it slid around in its box hahahaha now it looks like this #ruined",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1679.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.15811173617839813,
+      -0.08224761486053467,
+      0.10697462409734726
+    ]
+  },
+  {
+    "guid": "1418",
+    "text": "At -- #flu #sorethrought #dizzy #sickness #fever #medicine #drug",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1418.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.08230607956647873,
+      0.018674694001674652,
+      -0.19048258662223816
+    ]
+  },
+  {
+    "guid": "3164",
+    "text": "RT @itsmovies: Stuck in Love",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3164.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.1255165934562683,
+      0.0903671458363533,
+      -0.4414063096046448
+    ]
+  },
+  {
+    "guid": "3163",
+    "text": "Tips To Run In The Heat : ,",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3163.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.38285571336746216,
+      0.17421197891235352,
+      0.01229630783200264
+    ]
+  },
+  {
+    "guid": "2928",
+    "text": "RT @rocorifootball: @rocorifootball Red Team finished 4th at the Lineman Challenge @rocoridistrict #poundtherock",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2928.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.0066633885726332664,
+      -0.17523044347763062,
+      0.12049900740385056
+    ]
+  },
+  {
+    "guid": "2865",
+    "text": "#WorstThingsToDoNaked go sunning on your deck...with you deck exposed",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2865.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.308569997549057,
+      -0.0316726490855217,
+      -0.4836888611316681
+    ]
+  },
+  {
+    "guid": "711",
+    "text": "RT @nytimestravel: 36 Hours in the most vibrant part of L.A.: Koreatown.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\711.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.07845534384250641,
+      0.17468100786209106,
+      -0.26510003209114075
+    ]
+  },
+  {
+    "guid": "1594",
+    "text": "#caring #empathy #toddlers #human #sweet",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1594.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.054109275341033936,
+      0.1583009660243988,
+      -0.35411062836647034
+    ]
+  },
+  {
+    "guid": "2005",
+    "text": "Outlaw Column on not getting the Chocolate Thing",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2005.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.140601247549057,
+      0.3909001052379608,
+      -0.4319232106208801
+    ]
+  },
+  {
+    "guid": "777",
+    "text": "(???). And when I found out it got wrecked ????????",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\777.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.19860956072807312,
+      -0.05870871990919113,
+      0.11350620537996292
+    ]
+  },
+  {
+    "guid": "4422",
+    "text": "The Templar Succession: A Novel @k_r_eckert http://t.co/nfTAAKWT7V In 1972 a disgraced college professor an #books 10 http://t.co/7FzsES9ACT",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4422.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      0.011768882162868977,
+      -0.08307613432407379,
+      0.025899823755025864
+    ]
+  },
+  {
+    "guid": "3091",
+    "text": "RT @sLcarothers: Rly cool idea: Interpreting graphs with sound for the visually impaired #datscihack",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3091.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.13554632663726807,
+      -0.1547483652830124,
+      0.23599034547805786
+    ]
+  },
+  {
+    "guid": "3614",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3614.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.2046860009431839,
+      -0.6722663640975952,
+      0.3620423376560211
+    ]
+  },
+  {
+    "guid": "788",
+    "text": "RT @BaeFeeling: Guess who gives relationship advice and is still single",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\788.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.17077131569385529,
+      0.13419917225837708,
+      -0.5964182615280151
+    ]
+  },
+  {
+    "guid": "3689",
+    "text": "I'm playing @pixtaword and I'm stumped with this one, can you help?",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3689.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.22605974972248077,
+      -0.12606096267700195,
+      -0.2150745689868927
+    ]
+  },
+  {
+    "guid": "3201",
+    "text": "Which way to go ... Check out my photo on Dreamstime #dreamstimeapp #signs",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3201.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.2996593117713928,
+      0.006820082664489746,
+      0.07351287454366684
+    ]
+  },
+  {
+    "guid": "434",
+    "text": "RT @fcain: How can we still see the Big Bang? - https://t.co/PTUIVprKcA by @StartsWithABang via @medium",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\434.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.2172231823205948,
+      0.056903667747974396,
+      0.04305419325828552
+    ]
+  },
+  {
+    "guid": "1810",
+    "text": "Anger as speed limit is reduced to 50mph on stretch of A610",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1810.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.3272802531719208,
+      0.2444337010383606,
+      -0.044788263738155365
+    ]
+  },
+  {
+    "guid": "3903",
+    "text": "Wicked here it is!! '68 AMC AMX Awesome paint job! #Neapolitan #smw2015 #yql",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3903.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.06610468775033951,
+      -0.2828145921230316,
+      0.15938594937324524
+    ]
+  },
+  {
+    "guid": "2707",
+    "text": "Why are you feeling dismal? Take the quiz:",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2707.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.047645892947912216,
+      0.1670183539390564,
+      -0.462473601102829
+    ]
+  },
+  {
+    "guid": "2378",
+    "text": "However, there are several black people born with blonde hair as well tho",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2378.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.04905153438448906,
+      0.2854423224925995,
+      -0.4476306140422821
+    ]
+  },
+  {
+    "guid": "2003",
+    "text": "Along with mindfulness, we should always try to be honest, compassionate, and helpful to others. #mindfulness",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2003.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.04321710020303726,
+      0.17296311259269714,
+      -0.37656939029693604
+    ]
+  },
+  {
+    "guid": "63",
+    "text": "Campaigning in Polegate this morning with the ebullient @MariaCaulfield and the frugal Francis Maude.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\63.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.0697508454322815,
+      0.17262032628059387,
+      -0.31646350026130676
+    ]
+  },
+  {
+    "guid": "2086",
+    "text": "RT @47Piiirate: #ExplainAnAnimePlotBadly Orphaned delinquent child with yellow hair and anger issues becomes leader of his village",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2086.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.1214214339852333,
+      0.22878232598304749,
+      -0.49229398369789124
+    ]
+  },
+  {
+    "guid": "4459",
+    "text": "TAVERNITI SO JANIS JEANS DISTRESSED EMBROIDERED SIZE 27 X 32 CELEBRITY FAVORITE! http://t.co/vlvsuB1TH1 http://t.co/ooAan2sV4K",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4459.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.007016290910542011,
+      -0.41120123863220215,
+      0.3344945013523102
+    ]
+  },
+  {
+    "guid": "3704",
+    "text": "RT @mashable: Artist paints Israel's air-raid shelters to make them \"sympathetic-looking.\"",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3704.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.05271082744002342,
+      0.12808912992477417,
+      -0.21186578273773193
+    ]
+  },
+  {
+    "guid": "3790",
+    "text": "NCIA helps troubled teens turn their lives around - #howto #how",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3790.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.06554944813251495,
+      0.3491969108581543,
+      -0.31020423769950867
+    ]
+  },
+  {
+    "guid": "3457",
+    "text": "RT @BabyAnimalPics: a man took care of a cat that was paralyzed after being hit by human",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3457.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.06548461318016052,
+      0.27062883973121643,
+      -0.5103824734687805
+    ]
+  },
+  {
+    "guid": "4333",
+    "text": "Phil Jackson says J.R. Smith exhibited 'delinquent behavior' before being traded http://t.co/fvKSSAbQ3J http://t.co/mxjEvtSGaK",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4333.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.11960417777299881,
+      -0.12818658351898193,
+      -0.039353832602500916
+    ]
+  },
+  {
+    "guid": "2363",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2363.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.3514273464679718,
+      0.06297250837087631,
+      -0.7851420640945435
+    ]
+  },
+  {
+    "guid": "858",
+    "text": "Come see #NewWriting at @The_New_Theatre by author of #Forsaken @gerardlee10 runs until Sat 14. @writing_ie #Magic",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\858.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.10374478250741959,
+      0.2556329071521759,
+      -0.49806639552116394
+    ]
+  },
+  {
+    "guid": "2610",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2610.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.24300219118595123,
+      -0.6458290219306946,
+      0.34995412826538086
+    ]
+  },
+  {
+    "guid": "2729",
+    "text": "RT @ThislsAmazing: Two German soldiers trying to comfort a distressed child",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2729.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.05406517907977104,
+      0.4795996844768524,
+      -0.5049052238464355
+    ]
+  },
+  {
+    "guid": "927",
+    "text": "So this is not even a quarter of my possessions #horrified #wankyfridaynightsorting",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\927.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.08812885731458664,
+      0.09649535268545151,
+      -0.22305560111999512
+    ]
+  },
+  {
+    "guid": "3333",
+    "text": "It's the night for Blue Days and Melancholy Moods by Apple Music Jazz on @AppleMusic. https://t.co/g8hlnMUVIZ",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3333.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.13282190263271332,
+      -0.3785490393638611,
+      -0.019032590091228485
+    ]
+  },
+  {
+    "guid": "618",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\618.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.1922362595796585,
+      0.23207741975784302,
+      -0.140220046043396
+    ]
+  },
+  {
+    "guid": "602",
+    "text": "Startled starlings at Ballanette today @ManxBirdLife @wildlife_uk",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\602.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.26315951347351074,
+      0.09213925153017044,
+      0.14081111550331116
+    ]
+  },
+  {
+    "guid": "2126",
+    "text": "Smell scent of #ROSES in Ur life w/#LOVE #Abused #Dogs need help. #Sponsorship 4 Books Write-MaggieTails@gmail.com RT",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2126.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.44341129064559937,
+      -0.09774895012378693,
+      -0.6567767858505249
+    ]
+  },
+  {
+    "guid": "5015",
+    "text": "RT @SydMalatesta: @Tylersoldtweets I look so overjoyed http://t.co/O8T1AmH0D0",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\5015.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.11758316308259964,
+      0.3149327337741852,
+      -0.26753053069114685
+    ]
+  },
+  {
+    "guid": "3968",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3968.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.12335795164108276,
+      -0.08165331929922104,
+      -0.13738411664962769
+    ]
+  },
+  {
+    "guid": "4152",
+    "text": "BLEMISHED RINEHART 4\" BLK SLIP ON MUFFLERS CHROME TIPS 2\" INLET TRUE DUAL HARLEY http://t.co/YgpKQ0iBQO http://t.co/a5USLWGa1i",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4152.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.16941043734550476,
+      -0.43725717067718506,
+      0.6318721175193787
+    ]
+  },
+  {
+    "guid": "1288",
+    "text": "RT @DanielGennaoui: 8 pictures taken a second away from disaster: #pictures #amazing #crazy",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1288.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.36923491954803467,
+      0.07479570806026459,
+      -0.6080640554428101
+    ]
+  },
+  {
+    "guid": "1520",
+    "text": "Reranging my bookcase again before i buy #RubyCircle #Burned and other great new releases.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1520.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.11690746247768402,
+      -0.13997316360473633,
+      -0.1606886386871338
+    ]
+  },
+  {
+    "guid": "2102",
+    "text": "Two flag stickers yet neither of them are from the country we call home........ #speechless",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2102.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.23769305646419525,
+      0.22751185297966003,
+      -0.15389955043792725
+    ]
+  },
+  {
+    "guid": "3797",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3797.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.05986214801669121,
+      0.08207853883504868,
+      -0.2291552722454071
+    ]
+  },
+  {
+    "guid": "4824",
+    "text": "http://t.co/7eNNz6rHOC #8527 Foot Massager Spa Bath Health Beauty Hydro Therapy Heated Pedicure Vibrate Lig http://t.co/GQnCUpYYr9",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4824.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.33960583806037903,
+      -0.4565211236476898,
+      0.6687209606170654
+    ]
+  },
+  {
+    "guid": "115",
+    "text": "RT @designboom: this guest house by korean architect moon hoon features an elevated terrace...",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\115.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.034977398812770844,
+      0.07848329842090607,
+      -0.1529024839401245
+    ]
+  },
+  {
+    "guid": "4676",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4676.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.0200888030230999,
+      0.0733320340514183,
+      -0.4656701683998108
+    ]
+  },
+  {
+    "guid": "4908",
+    "text": "RT @GHOSTVERSE: 5ft tall bat dresses like it means business, leaving scientists intimidated and a bit self conscious http://t.co/xIIXrMPHZv",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4908.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.18384632468223572,
+      -0.03654507175087929,
+      -0.2893906831741333
+    ]
+  },
+  {
+    "guid": "2110",
+    "text": "RT @danielkemp6: Debut Novel under a current paid option to film. (US) (UK)",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2110.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      0.05014118552207947,
+      0.10325407236814499,
+      -0.20999038219451904
+    ]
+  },
+  {
+    "guid": "3635",
+    "text": "Authentic Pandora Sterling Silver Sparkling Primrose CZ Bead 791481PCZ - Full read by eBay",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3635.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.09359743446111679,
+      -0.6059260368347168,
+      0.5646572709083557
+    ]
+  },
+  {
+    "guid": "1900",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1900.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.22882787883281708,
+      -0.15194904804229736,
+      0.2706615626811981
+    ]
+  },
+  {
+    "guid": "2898",
+    "text": "RT @thecoreyholcomb: Ghetto girls this what happen when y'all poor kids have to shit out the gyro meat y'all fed em ?lol",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2898.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.2698848247528076,
+      -0.016704536974430084,
+      -0.5475031137466431
+    ]
+  },
+  {
+    "guid": "4131",
+    "text": "@APPLEOFFIClAL @applenws #ApplePay #Apple http://t.co/IGvVqpdWR3",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4131.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.16025611758232117,
+      -0.04635147005319595,
+      0.15118569135665894
+    ]
+  },
+  {
+    "guid": "2108",
+    "text": "Quality of life: Tucson picks desolate intersection (3rd-Miramonte), starts bleeding cyclists.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2108.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.3182732164859772,
+      0.29248398542404175,
+      0.04423993080854416
+    ]
+  },
+  {
+    "guid": "920",
+    "text": "Thanks for ruining my day @lululemon ...3rd time wearing, a charm? #horrified",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\920.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.20608645677566528,
+      -0.09833832085132599,
+      0.22766968607902527
+    ]
+  },
+  {
+    "guid": "1550",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1550.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.10749507695436478,
+      0.17967873811721802,
+      -0.24775540828704834
+    ]
+  },
+  {
+    "guid": "667",
+    "text": "RT @SethTisue: not too pleased with the US Postal Service right now #freejazz #destroyed",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\667.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.052013155072927475,
+      -0.26456815004348755,
+      0.018414698541164398
+    ]
+  },
+  {
+    "guid": "1311",
+    "text": "#damaged #fences do not always need replacing #concrete fence bolt on supports often suffice",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1311.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.3354518711566925,
+      0.05424002557992935,
+      0.26544472575187683
+    ]
+  },
+  {
+    "guid": "1597",
+    "text": "At Pittsburgh IAP, the skylight (above) always makes me think of this (below) #INvalid",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1597.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.23481109738349915,
+      -0.1910344362258911,
+      0.3336508274078369
+    ]
+  },
+  {
+    "guid": "4602",
+    "text": "RT @ImLizzieM: #TodaysKidsWillNeverKnow the most disgusting, evil, horrible lying lip syncer Paolo Valisari http://t.co/Dit44uMCKP",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4602.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.29841119050979614,
+      0.1143367663025856,
+      -0.6597607731819153
+    ]
+  },
+  {
+    "guid": "720",
+    "text": "Qatar A330-300 A7-AEI detail, it was rather misty on Thursday so the shots haven't turned out as vibrant as usual.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\720.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.2455207258462906,
+      0.09384948760271072,
+      0.07220083475112915
+    ]
+  },
+  {
+    "guid": "1015",
+    "text": "\"@ThatKidRalph: I was going to be a child and violate butttt I'm grown #shook",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1015.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.02907673642039299,
+      0.2451505959033966,
+      -0.4833260476589203
+    ]
+  },
+  {
+    "guid": "4183",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4183.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.12729930877685547,
+      0.11301865428686142,
+      -0.39310094714164734
+    ]
+  },
+  {
+    "guid": "876",
+    "text": "#fashiongirlslikeus #gloomy Coolbeat #audiobooks: Award Winning Coolbeat Audiobooks Pub",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\876.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.023334037512540817,
+      -0.16001012921333313,
+      0.14949053525924683
+    ]
+  },
+  {
+    "guid": "3912",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3912.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.02323194220662117,
+      0.1769457757472992,
+      -0.1846136748790741
+    ]
+  },
+  {
+    "guid": "2514",
+    "text": "RT @GatesRobin: @sarobards @AnitaDWhite @TavandAleph @elisamich0422 nit",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2514.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.09304208308458328,
+      0.09294719249010086,
+      -0.31507039070129395
+    ]
+  },
+  {
+    "guid": "4042",
+    "text": "RT @BeyondScaredVid: Yep I would've dropped out of the program right then and there. This dude is something else ?? http://t.co/oPJxfchi1R",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4042.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.2892203629016876,
+      0.582321047782898,
+      -0.5467181205749512
+    ]
+  },
+  {
+    "guid": "2845",
+    "text": "RT @orrie_yes: Need to calm myself so here's over-affectionate-big-bro!Doffy and exasperated-little-bro!Roci for you guys.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2845.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.06378667801618576,
+      0.15563595294952393,
+      -0.30373314023017883
+    ]
+  },
+  {
+    "guid": "506",
+    "text": "#195 Petrified Wood Gemstone .925 Sterling Silver Overlay 2\" Pendant",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\506.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.052016809582710266,
+      -0.5852481126785278,
+      0.49125340580940247
+    ]
+  },
+  {
+    "guid": "2761",
+    "text": "Why are you feeling downcast? Take the quiz:",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2761.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.14996404945850372,
+      -0.13298365473747253,
+      -0.2677423059940338
+    ]
+  },
+  {
+    "guid": "865",
+    "text": "Wednesday: High pressure remains in charge yet again. Staying dry and cloudy in most places. #gloomy",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\865.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.07757977396249771,
+      0.09728191047906876,
+      -0.11591878533363342
+    ]
+  },
+  {
+    "guid": "764",
+    "text": "Skinny: wild gevangen & al 47 jr kunstjes doen in @Dolfinarium. Geen pensioen voor #dolfijnen. via @ZoutWaterEU",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\764.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.12316890060901642,
+      0.18628764152526855,
+      -0.4753528833389282
+    ]
+  },
+  {
+    "guid": "4816",
+    "text": "Bad Blood Part Two? Taylor Swift and Nicki Minaj Have Heated Twitter Exhange Over MTV VMA?Nod http://t.co/sHjWtY9cwK http://t.co/ctSidivjSS",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4816.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.5225955843925476,
+      -0.1919209361076355,
+      -0.6106840968132019
+    ]
+  },
+  {
+    "guid": "3991",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3991.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.018414240330457687,
+      0.22584018111228943,
+      -0.4595642387866974
+    ]
+  },
+  {
+    "guid": "2101",
+    "text": "Deserted Alley by alexanderpolomodov - #Architecture #Moscow #Night #NightPhotography",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2101.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.07206594198942184,
+      0.15470218658447266,
+      -0.1248774304986
+    ]
+  },
+  {
+    "guid": "2966",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2966.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.1052214726805687,
+      0.2853724956512451,
+      -0.5177031755447388
+    ]
+  },
+  {
+    "guid": "729",
+    "text": "My Best Of All???? #Broken @LEVI_DA_GRATE",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\729.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.020786583423614502,
+      0.20102381706237793,
+      -0.4316703677177429
+    ]
+  },
+  {
+    "guid": "119",
+    "text": "RT @ADropOfJensen: \"I'm hunted, I rebelled, I did it, all of it, for you\" #ProfoundLove",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\119.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.17235027253627777,
+      0.11925175040960312,
+      -0.5460904240608215
+    ]
+  },
+  {
+    "guid": "1328",
+    "text": "Thank you @YourSchoolGames for the Competition pack received as part of the Reward and Recognition Scheme #delighted",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1328.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.19980217516422272,
+      -0.5066104531288147,
+      0.22969332337379456
+    ]
+  },
+  {
+    "guid": "3337",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3337.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.00742695014923811,
+      -0.20598214864730835,
+      0.10545744746923447
+    ]
+  },
+  {
+    "guid": "1995",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1995.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.06438292562961578,
+      0.2648437023162842,
+      -0.5091713666915894
+    ]
+  },
+  {
+    "guid": "4818",
+    "text": "RT @CALUMDATING: Calum barely had any sleep after you two got into a heated fight about groupie rumours http://t.co/kz0joKDtt7",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4818.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.528529167175293,
+      -0.15680107474327087,
+      -0.6203483939170837
+    ]
+  },
+  {
+    "guid": "2436",
+    "text": "GORGEOUS NATURAL OVAL 12x10mm TOP DEEP BLUE SAPPHIRE-WHITE TOPAZ 925 SILVER RING",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2436.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.015741311013698578,
+      -0.650210976600647,
+      0.5038360357284546
+    ]
+  },
+  {
+    "guid": "2592",
+    "text": "RT @GothamCityFans: You defeated Deathstroke eh?",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2592.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.07611418515443802,
+      0.29319554567337036,
+      -0.5300379991531372
+    ]
+  },
+  {
+    "guid": "3275",
+    "text": "Gorgeous Milky Way seen from a lonely country road flanked by cornfields west of Lawrence, Kansas on 7/11/15. #kswx",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3275.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.0717351958155632,
+      -0.039774950593709946,
+      0.006689876317977905
+    ]
+  },
+  {
+    "guid": "1419",
+    "text": "View from new diggs! #DaleyPlaza #picasso #Ihavewindows #dontlookdown #dizzy #OlafonthePlaza #Chicago",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1419.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.15063650906085968,
+      0.06515287607908249,
+      -0.0003141704946756363
+    ]
+  },
+  {
+    "guid": "2937",
+    "text": "My experience with #gender and our flawed #binary system, my 2nd article for @gemmagazinebc: https://t.co/NorN1Nohb0",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2937.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.03898319602012634,
+      0.1343737542629242,
+      -0.21100622415542603
+    ]
+  },
+  {
+    "guid": "3831",
+    "text": "i am so upset, why evan. why couldn't you just go to taissa?!",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3831.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.2783283591270447,
+      0.19560739398002625,
+      -0.6451531648635864
+    ]
+  },
+  {
+    "guid": "2376",
+    "text": "RT @IGN: Here's the exclusive Jim Lee #Batman figure that people are fighting for #ControlSDCC #SDCC",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2376.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.086952805519104,
+      -0.035037003457546234,
+      0.10134220868349075
+    ]
+  },
+  {
+    "guid": "4823",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4823.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.4283488690853119,
+      -0.40134096145629883,
+      0.7608620524406433
+    ]
+  },
+  {
+    "guid": "541",
+    "text": "RT @nigs74: @JonMitchellITV beautiful clear but cold morning @LeedsDock today #Deserted",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\541.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.047124896198511124,
+      0.05236958712339401,
+      -0.1453300565481186
+    ]
+  },
+  {
+    "guid": "4186",
+    "text": "Are record levels of corporate buybacks the only thing keeping the market buoyant? http://t.co/hNRmbfMwFG http://t.co/XcxtOgTbmW",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4186.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.1876395046710968,
+      0.08602879196405411,
+      -0.08264614641666412
+    ]
+  },
+  {
+    "guid": "591",
+    "text": "Some things make you speechless. This is one of them. #ValentinesMagic #speechless #1954",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\591.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.180080845952034,
+      -0.43038100004196167,
+      0.1467113196849823
+    ]
+  },
+  {
+    "guid": "24",
+    "text": "Looking forward to #Disgraced by Ayad Akhtar! Monday and tuesday are already sold out!",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\24.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.29658785462379456,
+      0.23548099398612976,
+      -0.150168776512146
+    ]
+  },
+  {
+    "guid": "2470",
+    "text": "RT @CNN: His buoyant mood contrasts w/ the tone of much of his presidency. @POTUS gets his groove back:",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2470.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.07326233386993408,
+      0.11090137809515,
+      -0.16355428099632263
+    ]
+  },
+  {
+    "guid": "2560",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2560.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.029275093227624893,
+      -0.47020676732063293,
+      0.4262513518333435
+    ]
+  },
+  {
+    "guid": "2864",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2864.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      0.08414334803819656,
+      0.19178012013435364,
+      -0.6910335421562195
+    ]
+  },
+  {
+    "guid": "3378",
+    "text": "RT @poyntontennis: Congratulations to our Mixed U13 team who have won NE Cheshire Division 1 for a second year in a row",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3378.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.0663345456123352,
+      -0.24928313493728638,
+      0.17188996076583862
+    ]
+  },
+  {
+    "guid": "4499",
+    "text": "@doting_0120 (Ц) http://t.co/8k0E4R7B97",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4499.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.02211764268577099,
+      0.3108353018760681,
+      -0.5336166620254517
+    ]
+  },
+  {
+    "guid": "86",
+    "text": "Nuneaton fans at Gateshead today. The 26 went away ecstatic after a 2-1 win. Respect to all who travelled!",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\86.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.19603204727172852,
+      0.05053362995386124,
+      -0.03687424957752228
+    ]
+  },
+  {
+    "guid": "3808",
+    "text": "Hi, Hey, so the cam inU this babe's room just turned on. You can visit her here.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3808.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.17591269314289093,
+      -0.03297700732946396,
+      -0.31380030512809753
+    ]
+  },
+  {
+    "guid": "4897",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4897.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.055637191981077194,
+      -0.2381584644317627,
+      0.2513750493526459
+    ]
+  },
+  {
+    "guid": "953",
+    "text": "At Pittsburgh IAP, the skylight (above) always makes me think of this (below) #INvalid",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\953.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.23489437997341156,
+      -0.1908043622970581,
+      0.33361467719078064
+    ]
+  },
+  {
+    "guid": "2775",
+    "text": "#kerrydarksky Chris Hersman systems engineer new horizons, imagine how ecstatic he is right now...hip hip",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2775.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.06653838604688644,
+      -0.018920663744211197,
+      0.02420864999294281
+    ]
+  },
+  {
+    "guid": "2501",
+    "text": "Herded like cattle in 30+ degrees. Last time I fly 'cheap and cheerful' thanks @easyJet",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2501.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.0926310271024704,
+      0.13346201181411743,
+      -0.14138366281986237
+    ]
+  },
+  {
+    "guid": "4962",
+    "text": "BACA: http://t.co/nh17uRoEAf http://t.co/wQ7GdamEkh...",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4962.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.048063360154628754,
+      0.15393656492233276,
+      -0.5228139162063599
+    ]
+  },
+  {
+    "guid": "53",
+    "text": "#soutmanf Stand W73 until Thursday #laser #cut #weld",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\53.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.03420774266123772,
+      -0.010030373930931091,
+      -0.09242752939462662
+    ]
+  },
+  {
+    "guid": "5121",
+    "text": "The Polizia di Stato and Carabinieri have shunned Italian marques by placing an order for 925 #Seat Leon patrol cars. http://t.co/TIBlTwGQVI",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\5121.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.18251149356365204,
+      -0.21233388781547546,
+      0.3240019977092743
+    ]
+  },
+  {
+    "guid": "2686",
+    "text": "RT @InteriorDesign: On #Pinterest: Follow our projects board devoted to cool home office designs:",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2686.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.010097929276525974,
+      -0.2582363188266754,
+      0.2142716944217682
+    ]
+  },
+  {
+    "guid": "2783",
+    "text": "RT @ALLCAPSLYRICS: Elevated // State Champs",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2783.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.30092495679855347,
+      -0.009537003934383392,
+      -0.530279278755188
+    ]
+  },
+  {
+    "guid": "4751",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4751.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.0946536436676979,
+      0.19297930598258972,
+      -0.6104778051376343
+    ]
+  },
+  {
+    "guid": "3501",
+    "text": "Hey, I'm still reeling from the news Yohan is playing for Palace.",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3501.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.11151948571205139,
+      0.049520477652549744,
+      -0.33433353900909424
+    ]
+  },
+  {
+    "guid": "244",
+    "text": "RT @TodoMotorVe: #SabadoNissan Se vende el #Nissan Skyline de #PaulWalker que utilizo en Fast and Furious",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\244.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.12260472029447556,
+      -0.24281170964241028,
+      0.1934768259525299
+    ]
+  },
+  {
+    "guid": "4988",
+    "text": "HT @FutureDocs @drjfrank #meded http://t.co/V8LwSGc6Sy http://t.co/OsXp5ANZdB",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4988.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.15504787862300873,
+      0.04287856072187424,
+      0.062071122229099274
+    ]
+  },
+  {
+    "guid": "2899",
+    "text": "RT @aIexdrakes: when it's been 20 years and you're still fed up of listening to men",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2899.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.14491017162799835,
+      0.019786372780799866,
+      -0.527012050151825
+    ]
+  },
+  {
+    "guid": "3768",
+    "text": "Might of just ticked off a #bucketlist item - #Marinade #ukesofhazard #coppafeel",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3768.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      -0.01659354567527771,
+      -0.10392320156097412,
+      -0.06114222854375839
+    ]
+  },
+  {
+    "guid": "2106",
+    "text": "RT @SimpsonsQOTD: \"Oh, don't you worry, most of you will never fall in love and marry out of fear of dying alone.\"",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2106.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.07259558886289597,
+      0.22712922096252441,
+      -0.38370567560195923
+    ]
+  },
+  {
+    "guid": "3489",
+    "text": "Country Brook Design?? Puzzled Designer Handmade Dog Collar-L",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3489.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.17006917297840118,
+      -0.4311658442020416,
+      0.46392303705215454
+    ]
+  },
+  {
+    "guid": "1144",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1144.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.07207902520895004,
+      0.24933770298957825,
+      -0.3178364932537079
+    ]
+  },
+  {
+    "guid": "3649",
+    "text": "INCREDIBLE AMETHYST QUARTZ CLUSTER SPARKLING ON A CUSTOM MADE DISPLAY STAND",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3649.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.11544373631477356,
+      -0.3768478333950043,
+      0.31378647685050964
+    ]
+  },
+  {
+    "guid": "687",
+    "text": "RT @NME: 'Meat Is Murder' turned 30 this week. Here's how it helped inspire 10 other well-known albums",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\687.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.10005182027816772,
+      -0.08120928704738617,
+      -0.0741884633898735
+    ]
+  },
+  {
+    "guid": "1688",
+    "text": "#damaged #fences do not always need replacing #concrete fence bolt on supports often suffice",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1688.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.3354519307613373,
+      0.05424001067876816,
+      0.2654447555541992
+    ]
+  },
+  {
+    "guid": "4157",
+    "text": "7.50/8.00-16 10PLY INDUSTRIAL F-3 BLEMISHED FRONT TIRE http://t.co/vmxOxCFiVG http://t.co/1q8rw92tru",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4157.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.6623996496200562,
+      0.04845485836267471,
+      0.5440089106559753
+    ]
+  },
+  {
+    "guid": "82",
+    "text": "PAS Teens are on #Broadway! Excited to see #Disgraced - @ParkAvenueSyn",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\82.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.13471266627311707,
+      0.039572060108184814,
+      -0.09111769497394562
+    ]
+  },
+  {
+    "guid": "2747",
+    "text": "Why am I so disturbed at the jiggly croc bounce house?",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2747.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.05166139453649521,
+      -0.12254681438207626,
+      -0.07174775004386902
+    ]
+  },
+  {
+    "guid": "3939",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3939.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.12102720886468887,
+      0.39919814467430115,
+      -0.40704813599586487
+    ]
+  },
+  {
+    "guid": "3990",
+    "text": "RT @abandonedspaces: Abandoned golf courses in Japan turned into huge #solar power plants... http://t.co/xiknau2g9e",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3990.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.26253896951675415,
+      0.07450000941753387,
+      0.058584317564964294
+    ]
+  },
+  {
+    "guid": "621",
+    "text": "Euston Station 530am #train #station #London #england #empty #28dayslater #now",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\621.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.005628572776913643,
+      -0.040594395250082016,
+      -0.07395397126674652
+    ]
+  },
+  {
+    "guid": "2561",
+    "text": "When You Cut Ice Cream Instead of Scooping, Something Awe...",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2561.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.27306345105171204,
+      0.10672824829816818,
+      0.0706060454249382
+    ]
+  },
+  {
+    "guid": "985",
+    "text": "Genghis Khan ~ ily #relatable #king #passionate #yeet #yas #sogengrn @ap_genghis",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\985.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.03389308974146843,
+      0.028768278658390045,
+      -0.12989313900470734
+    ]
+  },
+  {
+    "guid": "1400",
+    "text": "#Broadway #Play \"#Disgraced\" #Pulitzer #Prize #Winner by #AmirKapoor. #NYC #TimesSquare #NewYork #Manhattan #Theater",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1400.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      -0.025308649986982346,
+      -0.04330595210194588,
+      -0.05055205523967743
+    ]
+  },
+  {
+    "guid": "3334",
+    "text": "THE MELANCHOLY OF HARUHI SUZUMIYA MIKURU ASAHINA FIGMA 071 71 FIGURE YA AP571",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3334.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.07044237852096558,
+      -0.3938808739185333,
+      0.2915574312210083
+    ]
+  },
+  {
+    "guid": "4013",
+    "text": "#AdvilSweepstakes #DIYrelief this is a shed foundation in need of TLC. My mind is willing but my muscles are aching. http://t.co/rvqG4bnr4r",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4013.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.2770683169364929,
+      -0.02079298347234726,
+      0.1854417324066162
+    ]
+  },
+  {
+    "guid": "1322",
+    "text": "Let's try to save my #damaged #hair with this combo from @TRESemme #beauty #blogger #cosmetics ???",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1322.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.0875793918967247,
+      -0.4378264248371124,
+      0.3683569133281708
+    ]
+  },
+  {
+    "guid": "1676",
+    "text": "@sainsburys this cheese is in date til 17th March and it's already green. Just sprinkled it on dinner #ruined",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1676.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.14189109206199646,
+      -0.04830347001552582,
+      0.1274409294128418
+    ]
+  },
+  {
+    "guid": "1515",
+    "text": "ONE IS NOT ONESELF by #Forsaken author @gerardlee10 #MarkORegan #PaulaGreevyLee #RonanMurray @The_New_Theatre",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1515.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.14696182310581207,
+      0.01724431663751602,
+      -0.4127095639705658
+    ]
+  },
+  {
+    "guid": "3829",
+    "text": "RT @1Dfau_au: Harry upset about a pregnant lady leaving the show & Liam wanted her to call the baby Liam 11/7/15",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3829.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.2747839391231537,
+      -0.25638604164123535,
+      -0.2081872522830963
+    ]
+  },
+  {
+    "guid": "474",
+    "text": "\"I can't believe It! That was on my bucket list!\": Woman overjoyed at sight of @BarackObama",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\474.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.018796369433403015,
+      0.37642279267311096,
+      -0.5184374451637268
+    ]
+  },
+  {
+    "guid": "1008",
+    "text": "It's shocking what is acceptable in kids TV shows these days #shocking #shocked",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1008.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.00789663102477789,
+      0.02070043236017227,
+      -0.1342385709285736
+    ]
+  },
+  {
+    "guid": "2665",
+    "text": "@Destroyed_Gems Shawn: *Walked around looking like this:",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2665.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.011033360846340656,
+      -0.031422413885593414,
+      -0.22954702377319336
+    ]
+  },
+  {
+    "guid": "4077",
+    "text": "DeAndre Jordan -- I've Got the Cure for Bitter Mavericks Fans (VIDEO) http://t.co/HBNopfUUId http://t.co/fSVjrLV9u7",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4077.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.06413031369447708,
+      0.030750147998332977,
+      -0.13554488122463226
+    ]
+  },
+  {
+    "guid": "2036",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2036.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.11147215217351913,
+      0.1898675262928009,
+      -0.6054224967956543
+    ]
+  },
+  {
+    "guid": "782",
+    "text": "#cpr - Odds are, you're doing CPR wrong!",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\782.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.17179693281650543,
+      -0.156007319688797,
+      0.3045966625213623
+    ]
+  },
+  {
+    "guid": "2042",
+    "text": "Reader comment: 'I like these but I wonder if they might get crushed out of shape eventually\"",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2042.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.0076726144179701805,
+      -0.27752313017845154,
+      0.10721496492624283
+    ]
+  },
+  {
+    "guid": "155",
+    "text": "Tales Of Evil PhD Supervisors: 10th story - Vacation?",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\155.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.25476300716400146,
+      0.5554330945014954,
+      -0.4894792437553406
+    ]
+  },
+  {
+    "guid": "4863",
+    "text": "RT @JBCrewdotcom: Photos of Justin Bieber and Selena Gomez at a hotel in Beverly Hills, California. (July 11) http://t.co/NA4FPf9uoU",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4863.jpg",
+    "true_label": "neutral",
+    "pred_label": "positive",
+    "logits": [
+      0.2692751884460449,
+      -0.23527514934539795,
+      -0.12059526145458221
+    ]
+  },
+  {
+    "guid": "1090",
+    "text": "RT @itstotallyalii: I drew something but idk, just a sketch #brOKen",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1090.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.20891918241977692,
+      -0.18623703718185425,
+      -0.1993063986301422
+    ]
+  },
+  {
+    "guid": "4300",
+    "text": "Genuine HP 21 Black Ink Cartridge in Damaged Retail Box http://t.co/RQ6jIeSh3i http://t.co/2lMIPcoHnj",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4300.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.18582920730113983,
+      -0.32874277234077454,
+      0.5488718748092651
+    ]
+  },
+  {
+    "guid": "3245",
+    "text": "#WomansHealth #Featured Home Uses Of Leftover Citrus Peels",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3245.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.1375148892402649,
+      -0.4465212821960449,
+      0.18575376272201538
+    ]
+  },
+  {
+    "guid": "3643",
+    "text": "8 GM SPARKLING FACETED SWISS BLUE TOPAZ .925 STERLING SILVER EARRING 1.93\"",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3643.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.004696263000369072,
+      -0.5750532150268555,
+      0.5008859634399414
+    ]
+  },
+  {
+    "guid": "3299",
+    "text": "RT @500pxGallery: Marooned #4 by EdMorris #500px |",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3299.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.1439746469259262,
+      0.12469560652971268,
+      -0.0789225623011589
+    ]
+  },
+  {
+    "guid": "1921",
+    "text": "RT @SnakeBytesTV: Pied!! With an awesome black blotched pattern...",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1921.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.004808417521417141,
+      -0.13078472018241882,
+      0.02091037482023239
+    ]
+  },
+  {
+    "guid": "3852",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3852.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.021751970052719116,
+      0.0509314239025116,
+      -0.2776344120502472
+    ]
+  },
+  {
+    "guid": "5018",
+    "text": "Panicky Streak Misty from Arkais  | 190K | Order 08988544546 / 7EE2762E http://t.co/vKNftNFgIN",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\5018.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.20758019387722015,
+      -0.41299715638160706,
+      0.6292517781257629
+    ]
+  },
+  {
+    "guid": "4509",
+    "text": "We are ecstatic to be supporting the @RVABreastfeeds campaign with social media strategy. #rvabreastfeeds http://t.co/Vq5oCyw0l1",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4509.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.1070140153169632,
+      0.030603691935539246,
+      -0.054923154413700104
+    ]
+  },
+  {
+    "guid": "4470",
+    "text": "30\" Vintage Distressed Red 'No Place Like Home' Sign Country Wall D??cor Plaque http://t.co/2DA5vfWfWd http://t.co/833LRVtst7",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4470.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.19092042744159698,
+      -0.12365246564149857,
+      0.26469072699546814
+    ]
+  },
+  {
+    "guid": "2056",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2056.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.2712482810020447,
+      0.1632862091064453,
+      0.020564932376146317
+    ]
+  },
+  {
+    "guid": "1261",
+    "text": "Deer Invasion #snowstorm #trapped #weresurrounded",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1261.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      0.001115419901907444,
+      0.08247465640306473,
+      -0.3706936538219452
+    ]
+  },
+  {
+    "guid": "773",
+    "text": "7 Awesome iPhone Cases -",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\773.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.12524500489234924,
+      -0.47197702527046204,
+      0.237125426530838
+    ]
+  },
+  {
+    "guid": "181",
+    "text": "EXPOSED: free fortune cookie SCAM at uwindsor marketplace #thatsnotafortune #appalled #fortuneless #cookiewasgoodtho",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\181.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.06772568821907043,
+      -0.054367028176784515,
+      -0.1644514501094818
+    ]
+  },
+  {
+    "guid": "2900",
+    "text": "Another beluga baby at #georgiaaquarium causes concern & is now being tube fed #blackfish",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2900.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.09984540194272995,
+      0.17013156414031982,
+      -0.07070383429527283
+    ]
+  },
+  {
+    "guid": "2431",
+    "text": "Sky Blue Crushed Velvet Medieval Renaissance Gown Dress LOTR Wedding Costume M",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2431.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.006200055591762066,
+      -0.41521474719047546,
+      0.3327203392982483
+    ]
+  },
+  {
+    "guid": "889",
+    "text": "RT @GarthCripps: Migrant #traditionalfishers living on the edge, Nosy Manandra, #Barren Isles, #Madagascar",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\889.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.020881816744804382,
+      0.06931664049625397,
+      -0.1802920699119568
+    ]
+  },
+  {
+    "guid": "3585",
+    "text": "RT @DonaBull: Sinful Sunday Pt. 01",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3585.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.027611445635557175,
+      -0.12003514915704727,
+      0.039016254246234894
+    ]
+  },
+  {
+    "guid": "305",
+    "text": "#colorsplash_bw #zealous Chocolate #university online: With chocolate classes from Choc",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\305.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.0717720165848732,
+      -0.3509998917579651,
+      0.41447144746780396
+    ]
+  },
+  {
+    "guid": "1621",
+    "text": "RT @dereksimonds: GM @GrantRandom #paralyzed @InFlames_SWE belongs on #BigUnsSXM thanks @matthewkheafy for intro. @AceDeucy @pm9",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1621.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.16627885401248932,
+      -0.18432065844535828,
+      0.21126803755760193
+    ]
+  },
+  {
+    "guid": "4659",
+    "text": "RT @moonshineskates: Dean Mendez feeble bend NYC. http://t.co/FIwJXcKlSJ",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4659.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.0044538723304867744,
+      0.030548788607120514,
+      -0.12659189105033875
+    ]
+  },
+  {
+    "guid": "905",
+    "text": "\"@SteveStfler: @dhodgy7 when you don't cook me dinner... #helpless",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\905.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.05857348069548607,
+      0.05499475449323654,
+      -0.1851256787776947
+    ]
+  },
+  {
+    "guid": "3878",
+    "text": "When you're a washed up athlete and its softball playoffs... You start stretching a hour and half before the game ?",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3878.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.16784244775772095,
+      -0.11653869599103928,
+      -0.43990546464920044
+    ]
+  },
+  {
+    "guid": "4540",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4540.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.18216150999069214,
+      0.002692572772502899,
+      0.04381682723760605
+    ]
+  },
+  {
+    "guid": "498",
+    "text": "Winters day by the sea #sun #blueskies #sea #felixstowe #walk #warm #deserted #waves",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\498.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      -0.00996840838342905,
+      -0.12447748333215714,
+      0.05002695322036743
+    ]
+  },
+  {
+    "guid": "3943",
+    "text": "Some of the team volunteered at the SMGA outing today at @MoheganSun GC. Helping Wounded Warriors was humbling #USA",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\3943.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      0.08002408593893051,
+      -0.2547524869441986,
+      0.12259989231824875
+    ]
+  },
+  {
+    "guid": "4638",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4638.jpg",
+    "true_label": "positive",
+    "pred_label": "neutral",
+    "logits": [
+      0.12660673260688782,
+      -0.5097275972366333,
+      0.3448760509490967
+    ]
+  },
+  {
+    "guid": "819",
+    "text": "#Rainy roadside rubbish collection day. #glasses #broken",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\819.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      -0.06038786843419075,
+      -0.06470081210136414,
+      0.05296870321035385
+    ]
+  },
+  {
+    "guid": "1964",
+    "text": "RT @illogicaI: When you can't tell if someone is into you or not",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1964.jpg",
+    "true_label": "neutral",
+    "pred_label": "negative",
+    "logits": [
+      -0.26536837220191956,
+      0.39365819096565247,
+      -0.3335481882095337
+    ]
+  },
+  {
+    "guid": "1128",
+    "text": "#justlikeme #purenaked #purepleasure #simplysilk #sensations #whipped",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1128.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.035991717129945755,
+      0.11816411465406418,
+      -0.4077209532260895
+    ]
+  },
+  {
+    "guid": "1734",
+    "text": "Really not the way to treat your #cigars. #Habanos deserve better. #neglected",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1734.jpg",
+    "true_label": "negative",
+    "pred_label": "neutral",
+    "logits": [
+      0.06405475735664368,
+      -0.18523356318473816,
+      0.1251218318939209
+    ]
+  },
+  {
+    "guid": "4240",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4240.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.063896544277668,
+      0.12542986869812012,
+      -0.2168799638748169
+    ]
+  },
+  {
+    "guid": "1670",
+    "text": "@GeorgesNiang20 I think you heard me yelling at you before, during the game. Must have gotten in your head. #Rattled",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1670.jpg",
+    "true_label": "negative",
+    "pred_label": "positive",
+    "logits": [
+      0.10823547095060349,
+      -0.13660374283790588,
+      -0.1801135540008545
+    ]
+  },
+  {
+    "guid": "1190",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\1190.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.20016460120677948,
+      0.11441480368375778,
+      -0.20773831009864807
+    ]
+  },
+  {
+    "guid": "2819",
+    "text": "RT @monde_biodi: Certains animaux ont plus de chances que d'autres ..",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\2819.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      0.08543181419372559,
+      0.38130512833595276,
+      -0.5969143509864807
+    ]
+  },
+  {
+    "guid": "4503",
+    "text": "",
+    "img_path": "D:\\课程\\当代人工智能\\project5\\lab5\\Contemporary-AI-lab5\\code\\data\\4503.jpg",
+    "true_label": "positive",
+    "pred_label": "negative",
+    "logits": [
+      -0.04070839658379555,
+      0.1428285837173462,
+      -0.3313122093677521
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+Final Evaluation Report
+Best val macro-F1: 0.5439
+Final val macro-F1: 0.5439 | Final val weighted-F1: 0.6558 | Final val acc: 0.6600
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7292    0.7887    0.7578       478
+    negative     0.6364    0.5294    0.5780       238
+     neutral     0.2941    0.2976    0.2959        84
+
+    accuracy                         0.6600       800
+   macro avg     0.5532    0.5386    0.5439       800
+weighted avg     0.6559    0.6600    0.6558       800
+
+
+Confusion Matrix:
+[[377  58  43]
+ [ 95 126  17]
+ [ 45  14  25]]

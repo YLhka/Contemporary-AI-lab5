@@ -1,0 +1,192 @@
+Training started at: 2026-01-28 14:37:42
+Command: train_clipfusion_full.py --train-file cleaned/train_clean.txt --val-file cleaned/val_clean.txt --data-dir data --epochs 10 --batch-size 16 --lr 1e-5 --output-dir results/clipfusion/lr1e-5_bs16_nofreeze --output best_clipfusion_lr1e-5_bs16_nofreeze.pt
+
+Device: cuda
+PyTorch version: 2.6.0+cu124
+CUDA version: 12.4
+GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+Class weights: [0.5584642291069031, 1.1169284582138062, 3.184079647064209]
+===== Epoch 1 =====
+Train loss: 1.0378 | Val loss: 0.9425
+Val macro-F1: 0.5332 | Val weighted-F1: 0.6253 | Val acc: 0.6188
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7208    0.7238    0.7223       478
+    negative     0.6229    0.4580    0.5278       238
+     neutral     0.2759    0.4762    0.3493        84
+
+    accuracy                         0.6188       800
+   macro avg     0.5399    0.5527    0.5332       800
+weighted avg     0.6450    0.6188    0.6253       800
+
+
+Confusion Matrix:
+[[346  53  79]
+ [103 109  26]
+ [ 31  13  40]]
+
+Saved best model: best_clipfusion_lr1e-5_bs16_nofreeze.pt
+===== Epoch 2 =====
+Train loss: 0.7932 | Val loss: 0.7744
+Val macro-F1: 0.5847 | Val weighted-F1: 0.6613 | Val acc: 0.6350
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.8697    0.6004    0.7104       478
+    negative     0.6322    0.6933    0.6613       238
+     neutral     0.2679    0.6667    0.3823        84
+
+    accuracy                         0.6350       800
+   macro avg     0.5899    0.6535    0.5847       800
+weighted avg     0.7359    0.6350    0.6613       800
+
+
+Confusion Matrix:
+[[287  83 108]
+ [ 28 165  45]
+ [ 15  13  56]]
+
+Saved best model: best_clipfusion_lr1e-5_bs16_nofreeze.pt
+===== Epoch 3 =====
+Train loss: 0.4185 | Val loss: 0.9566
+Val macro-F1: 0.5649 | Val weighted-F1: 0.6552 | Val acc: 0.6400
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.8882    0.5983    0.7150       478
+    negative     0.5457    0.8025    0.6497       238
+     neutral     0.2734    0.4167    0.3302        84
+
+    accuracy                         0.6400       800
+   macro avg     0.5691    0.6058    0.5649       800
+weighted avg     0.7218    0.6400    0.6552       800
+
+
+Confusion Matrix:
+[[286 122  70]
+ [ 24 191  23]
+ [ 12  37  35]]
+
+Early stopping counter: 1/3
+===== Epoch 4 =====
+Train loss: 0.1520 | Val loss: 1.0843
+Val macro-F1: 0.6176 | Val weighted-F1: 0.7132 | Val acc: 0.7137
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7715    0.8264    0.7980       478
+    negative     0.7394    0.5840    0.6526       238
+     neutral     0.3700    0.4405    0.4022        84
+
+    accuracy                         0.7138       800
+   macro avg     0.6269    0.6170    0.6176       800
+weighted avg     0.7198    0.7137    0.7132       800
+
+
+Confusion Matrix:
+[[395  37  46]
+ [ 82 139  17]
+ [ 35  12  37]]
+
+Saved best model: best_clipfusion_lr1e-5_bs16_nofreeze.pt
+===== Epoch 5 =====
+Train loss: 0.0687 | Val loss: 1.4191
+Val macro-F1: 0.5725 | Val weighted-F1: 0.6864 | Val acc: 0.6963
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7365    0.8536    0.7907       478
+    negative     0.7321    0.5168    0.6059       238
+     neutral     0.3333    0.3095    0.3210        84
+
+    accuracy                         0.6963       800
+   macro avg     0.6006    0.5600    0.5725       800
+weighted avg     0.6928    0.6963    0.6864       800
+
+
+Confusion Matrix:
+[[408  34  36]
+ [ 99 123  16]
+ [ 47  11  26]]
+
+Early stopping counter: 1/3
+===== Epoch 6 =====
+Train loss: 0.0349 | Val loss: 1.3111
+Val macro-F1: 0.6074 | Val weighted-F1: 0.7265 | Val acc: 0.7288
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.8092    0.8075    0.8084       478
+    negative     0.6976    0.7269    0.7119       238
+     neutral     0.3200    0.2857    0.3019        84
+
+    accuracy                         0.7288       800
+   macro avg     0.6089    0.6067    0.6074       800
+weighted avg     0.7246    0.7288    0.7265       800
+
+
+Confusion Matrix:
+[[386  55  37]
+ [ 51 173  14]
+ [ 40  20  24]]
+
+Early stopping counter: 2/3
+===== Epoch 7 =====
+Train loss: 0.0193 | Val loss: 1.5501
+Val macro-F1: 0.5805 | Val weighted-F1: 0.6970 | Val acc: 0.7063
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7505    0.8556    0.7996       478
+    negative     0.7238    0.5504    0.6253       238
+     neutral     0.3378    0.2976    0.3165        84
+
+    accuracy                         0.7063       800
+   macro avg     0.6040    0.5679    0.5805       800
+weighted avg     0.6992    0.7063    0.6970       800
+
+
+Confusion Matrix:
+[[409  35  34]
+ [ 92 131  15]
+ [ 44  15  25]]
+
+Early stopping counter: 3/3
+Early stopping triggered!
+Saved metrics to: results/clipfusion/lr1e-5_bs16_nofreeze\metrics.csv
+
+===== Final Evaluation =====
+Final val macro-F1: 0.6176 | Final val weighted-F1: 0.7132 | Final val acc: 0.7137
+
+Final Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7715    0.8264    0.7980       478
+    negative     0.7394    0.5840    0.6526       238
+     neutral     0.3700    0.4405    0.4022        84
+
+    accuracy                         0.7138       800
+   macro avg     0.6269    0.6170    0.6176       800
+weighted avg     0.7198    0.7137    0.7132       800
+
+
+Final Confusion Matrix:
+[[395  37  46]
+ [ 82 139  17]
+ [ 35  12  37]]
+
+===== Error Analysis =====
+Total misclassified samples: 229
+Error rate: 0.2863
+Saved error analysis to: results/clipfusion/lr1e-5_bs16_nofreeze\error_analysis.json
+Saved final report to: results/clipfusion/lr1e-5_bs16_nofreeze\final_report.txt
+
+All results saved to: results/clipfusion/lr1e-5_bs16_nofreeze

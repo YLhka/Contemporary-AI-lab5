@@ -1,0 +1,24 @@
+Final Evaluation Report
+Best val macro-F1: 0.6067
+Final val macro-F1: 0.6067 | Final val weighted-F1: 0.7051 | Final val acc: 0.6937
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.8498    0.7218    0.7805       478
+    negative     0.6268    0.7269    0.6732       238
+     neutral     0.3136    0.4405    0.3663        84
+
+    accuracy                         0.6937       800
+   macro avg     0.5967    0.6297    0.6067       800
+weighted avg     0.7271    0.6937    0.7051       800
+
+
+Confusion Matrix:
+[[345  73  60]
+ [ 44 173  21]
+ [ 17  30  37]]
+
+Error Analysis:
+Total misclassified samples: 245
+Error rate: 0.3063

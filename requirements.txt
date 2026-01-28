@@ -1,0 +1,21 @@
+# Project Dependencies
+
+# PyTorch and related libraries
+pytorch>=2.0.0
+
+# Hugging Face Transformers for CLIP model
+transformers>=4.30.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Image processing
+Pillow>=9.0.0
+
+# Progress bar
+tqdm>=4.65.0
+
+# Optional: CUDA support (uncomment if needed)
+# torchvision>=0.15.0
+# torchaudio>=2.0.0

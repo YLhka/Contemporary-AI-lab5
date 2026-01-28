@@ -1,0 +1,188 @@
+Training started at: 2026-01-28 08:51:09
+Command: train_cross_attention.py --train-file cleaned/train_clean.txt --val-file cleaned/val_clean.txt --data-dir data --fusion cross --epochs 10 --batch-size 32 --lr 1e-4 --freeze-text --freeze-image --output-dir results/cross_attention/lr1e-4_bs32_freeze --output best_cross_attention_lr1e-4_bs32_freeze.pt
+
+Device: cuda
+PyTorch version: 2.6.0+cu124
+CUDA version: 12.4
+GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+Class weights: [0.5584642291069031, 1.1169284582138062, 3.184079647064209]
+===== Epoch 1 =====
+Train loss: 1.0321 | Val loss: 1.0511
+Val macro-F1: 0.4860 | Val weighted-F1: 0.6224 | Val acc: 0.6338
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7595    0.7134    0.7357       478
+    negative     0.4801    0.6597    0.5558       238
+     neutral     0.3750    0.1071    0.1667        84
+
+    accuracy                         0.6338       800
+   macro avg     0.5382    0.4934    0.4860       800
+weighted avg     0.6360    0.6338    0.6224       800
+
+
+Confusion Matrix:
+[[341 126  11]
+ [ 77 157   4]
+ [ 31  44   9]]
+
+Saved best model: best_cross_attention_lr1e-4_bs32_freeze.pt
+===== Epoch 2 =====
+Train loss: 0.8504 | Val loss: 0.9571
+Val macro-F1: 0.5060 | Val weighted-F1: 0.5838 | Val acc: 0.5613
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.8121    0.5335    0.6439       478
+    negative     0.4920    0.6429    0.5574       238
+     neutral     0.2343    0.4881    0.3166        84
+
+    accuracy                         0.5613       800
+   macro avg     0.5128    0.5548    0.5060       800
+weighted avg     0.6562    0.5613    0.5838       800
+
+
+Confusion Matrix:
+[[255 130  93]
+ [ 44 153  41]
+ [ 15  28  41]]
+
+Saved best model: best_cross_attention_lr1e-4_bs32_freeze.pt
+===== Epoch 3 =====
+Train loss: 0.7494 | Val loss: 1.0347
+Val macro-F1: 0.5166 | Val weighted-F1: 0.6127 | Val acc: 0.5938
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7459    0.6632    0.7021       478
+    negative     0.5960    0.4958    0.5413       238
+     neutral     0.2260    0.4762    0.3065        84
+
+    accuracy                         0.5938       800
+   macro avg     0.5226    0.5451    0.5166       800
+weighted avg     0.6467    0.5938    0.6127       800
+
+
+Confusion Matrix:
+[[317  63  98]
+ [ 81 118  39]
+ [ 27  17  40]]
+
+Saved best model: best_cross_attention_lr1e-4_bs32_freeze.pt
+===== Epoch 4 =====
+Train loss: 0.6418 | Val loss: 1.1276
+Val macro-F1: 0.5205 | Val weighted-F1: 0.6254 | Val acc: 0.6100
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7580    0.6946    0.7249       478
+    negative     0.5817    0.5084    0.5426       238
+     neutral     0.2273    0.4167    0.2941        84
+
+    accuracy                         0.6100       800
+   macro avg     0.5223    0.5399    0.5205       800
+weighted avg     0.6498    0.6100    0.6254       800
+
+
+Confusion Matrix:
+[[332  66  80]
+ [ 78 121  39]
+ [ 28  21  35]]
+
+Saved best model: best_cross_attention_lr1e-4_bs32_freeze.pt
+===== Epoch 5 =====
+Train loss: 0.5686 | Val loss: 1.1953
+Val macro-F1: 0.4925 | Val weighted-F1: 0.6007 | Val acc: 0.5725
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7723    0.6527    0.7075       478
+    negative     0.5753    0.4496    0.5047       238
+     neutral     0.1857    0.4643    0.2653        84
+
+    accuracy                         0.5725       800
+   macro avg     0.5111    0.5222    0.4925       800
+weighted avg     0.6521    0.5725    0.6007       800
+
+
+Confusion Matrix:
+[[312  57 109]
+ [ 69 107  62]
+ [ 23  22  39]]
+
+Early stopping counter: 1/3
+===== Epoch 6 =====
+Train loss: 0.4983 | Val loss: 1.4073
+Val macro-F1: 0.5020 | Val weighted-F1: 0.6142 | Val acc: 0.6000
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7598    0.6883    0.7223       478
+    negative     0.5304    0.5126    0.5214       238
+     neutral     0.2117    0.3452    0.2624        84
+
+    accuracy                         0.6000       800
+   macro avg     0.5006    0.5154    0.5020       800
+weighted avg     0.6340    0.6000    0.6142       800
+
+
+Confusion Matrix:
+[[329  81  68]
+ [ 76 122  40]
+ [ 28  27  29]]
+
+Early stopping counter: 2/3
+===== Epoch 7 =====
+Train loss: 0.4277 | Val loss: 1.5314
+Val macro-F1: 0.4991 | Val weighted-F1: 0.6196 | Val acc: 0.6150
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7597    0.6946    0.7257       478
+    negative     0.5054    0.5924    0.5455       238
+     neutral     0.2262    0.2262    0.2262        84
+
+    accuracy                         0.6150       800
+   macro avg     0.4971    0.5044    0.4991       800
+weighted avg     0.6280    0.6150    0.6196       800
+
+
+Confusion Matrix:
+[[332 103  43]
+ [ 75 141  22]
+ [ 30  35  19]]
+
+Early stopping counter: 3/3
+Early stopping triggered!
+Saved metrics to: results/cross_attention/lr1e-4_bs32_freeze\metrics.csv
+
+===== Final Evaluation =====
+Best val macro-F1: 0.5205
+Final val macro-F1: 0.5205 | Final val weighted-F1: 0.6254 | Final val acc: 0.6100
+
+Final Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7580    0.6946    0.7249       478
+    negative     0.5817    0.5084    0.5426       238
+     neutral     0.2273    0.4167    0.2941        84
+
+    accuracy                         0.6100       800
+   macro avg     0.5223    0.5399    0.5205       800
+weighted avg     0.6498    0.6100    0.6254       800
+
+
+Final Confusion Matrix:
+[[332  66  80]
+ [ 78 121  39]
+ [ 28  21  35]]
+Saved final report to: results/cross_attention/lr1e-4_bs32_freeze\final_report.txt
+
+All results saved to: results/cross_attention/lr1e-4_bs32_freeze

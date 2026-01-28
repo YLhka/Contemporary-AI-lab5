@@ -1,0 +1,20 @@
+Epoch 4 Report
+Train loss: 1.0194 | Val loss: 1.0139
+Val macro-F1: 0.5877 | Val weighted-F1: 0.6892 | Val acc: 0.6775
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.8571    0.6904    0.7648       478
+    negative     0.5908    0.7521    0.6617       238
+     neutral     0.2946    0.3929    0.3367        84
+
+    accuracy                         0.6775       800
+   macro avg     0.5808    0.6118    0.5877       800
+weighted avg     0.7188    0.6775    0.6892       800
+
+
+Confusion Matrix:
+[[330  88  60]
+ [ 40 179  19]
+ [ 15  36  33]]

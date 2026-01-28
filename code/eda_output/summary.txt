@@ -1,0 +1,8 @@
+num_samples: 4000
+num_missing_images: 0
+num_corrupted_images: 0
+avg_char_len: 65.67175
+median_char_len: 74.0
+avg_token_len: 9.5475
+median_token_len: 10.0
+class_counts: {'positive': 2388, 'negative': 1193, 'neutral': 419}

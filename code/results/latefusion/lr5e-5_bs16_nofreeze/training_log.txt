@@ -1,0 +1,123 @@
+Training started at: 2026-01-28 13:07:15
+Command: train_latefusion.py --train-file cleaned/train_clean.txt --val-file cleaned/val_clean.txt --data-dir data --epochs 10 --batch-size 16 --lr 5e-5 --output-dir results/latefusion/lr5e-5_bs16_nofreeze --output-path best_latefusion_lr5e-5_bs16_nofreeze.pt
+
+Device: cuda
+PyTorch version: 2.6.0+cu124
+CUDA version: 12.4
+GPU: NVIDIA GeForce RTX 4060 Laptop GPU
+Class weights: [0.5584642291069031, 1.1169284582138062, 3.184079647064209]
+===== Epoch 1 =====
+Train loss: 1.0488
+Val macro-F1: 0.4780 | Val weighted-F1: 0.5540 | Val acc: 0.5312
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7940    0.5000    0.6136       478
+    negative     0.4554    0.6218    0.5258       238
+     neutral     0.2184    0.4524    0.2946        84
+
+    accuracy                         0.5312       800
+   macro avg     0.4893    0.5247    0.4780       800
+weighted avg     0.6328    0.5312    0.5540       800
+
+
+Confusion Matrix:
+[[239 143  96]
+ [ 50 148  40]
+ [ 12  34  38]]
+
+Saved best model: best_latefusion_lr5e-5_bs16_nofreeze.pt
+===== Epoch 2 =====
+Train loss: 0.9531
+Val macro-F1: 0.4319 | Val weighted-F1: 0.4725 | Val acc: 0.4600
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.8267    0.3494    0.4912       478
+    negative     0.3915    0.6597    0.4914       238
+     neutral     0.2234    0.5238    0.3132        84
+
+    accuracy                         0.4600       800
+   macro avg     0.4805    0.5109    0.4319       800
+weighted avg     0.6339    0.4600    0.4725       800
+
+
+Confusion Matrix:
+[[167 211 100]
+ [ 28 157  53]
+ [  7  33  44]]
+
+Early stopping counter: 1/3
+===== Epoch 3 =====
+Train loss: 0.8501
+Val macro-F1: 0.4632 | Val weighted-F1: 0.5089 | Val acc: 0.4963
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.8109    0.4038    0.5391       478
+    negative     0.4030    0.6807    0.5062       238
+     neutral     0.2625    0.5000    0.3443        84
+
+    accuracy                         0.4963       800
+   macro avg     0.4921    0.5281    0.4632       800
+weighted avg     0.6320    0.4963    0.5089       800
+
+
+Confusion Matrix:
+[[193 207  78]
+ [ 36 162  40]
+ [  9  33  42]]
+
+Early stopping counter: 2/3
+===== Epoch 4 =====
+Train loss: 0.7963
+Val macro-F1: 0.4595 | Val weighted-F1: 0.5131 | Val acc: 0.4963
+
+Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.8057    0.4163    0.5490       478
+    negative     0.4160    0.6555    0.5090       238
+     neutral     0.2360    0.5000    0.3206        84
+
+    accuracy                         0.4963       800
+   macro avg     0.4859    0.5239    0.4595       800
+weighted avg     0.6299    0.4963    0.5131       800
+
+
+Confusion Matrix:
+[[199 189  90]
+ [ 36 156  46]
+ [ 12  30  42]]
+
+Early stopping counter: 3/3
+Early stopping triggered!
+Saved metrics to: results/latefusion/lr5e-5_bs16_nofreeze\metrics.csv
+
+===== Final Evaluation =====
+Final val macro-F1: 0.4780
+Final val weighted-F1: 0.5540
+Final val acc: 0.5312
+
+Final Classification Report:
+              precision    recall  f1-score   support
+
+    positive     0.7940    0.5000    0.6136       478
+    negative     0.4554    0.6218    0.5258       238
+     neutral     0.2184    0.4524    0.2946        84
+
+    accuracy                         0.5312       800
+   macro avg     0.4893    0.5247    0.4780       800
+weighted avg     0.6328    0.5312    0.5540       800
+
+
+Final Confusion Matrix:
+[[239 143  96]
+ [ 50 148  40]
+ [ 12  34  38]]
+Saved final report to: results/latefusion/lr5e-5_bs16_nofreeze\final_report.txt
+
+All results saved to: results/latefusion/lr5e-5_bs16_nofreeze
